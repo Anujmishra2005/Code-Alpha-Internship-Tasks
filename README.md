@@ -1,12 +1,18 @@
-Task-1st == (i)  Landing Page
-            (ii) Login Register Page
+### Task 1
+- Landing Page
+- Login-Register Page
 
-Task-2nd == Age Calculator
+### Task 2
+- Age Calculator
 
-Task-3rd == Event Planning Website
+### Task 3
+- Event Planning Website
 
-Task-4th == Sigma Music Player
+### Task 4
+- Sigma Music Player
 
-Task-5th == Books Library
+### Task 5
+- Books Library
 
-Task-6th == Smart Home Automation System
+### Task 6
+- Smart Home Control System
